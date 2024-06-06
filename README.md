@@ -7,6 +7,7 @@ the first part we use the yolov5 to do the segment task,the original code:https:
 and the second part is wrote in the image_process_formal.py,and utilized the work from:https://github.com/EarlJr53/row-crop-detection
 
 step1:
+
 ![20240606154115](https://github.com/IElearner/crop-row-detect-using-yolov5/assets/114279086/0dddee0f-1781-4e29-b4da-2c49f1dc4101)
 
 
