@@ -18,6 +18,8 @@ you can see the transforming detail in the step2.png (not the image above)
 
 
 the label was done by using labelme。
+
 we can not afford you the completed dataset(so sorry),but there is one best.py that we have trained ,
 you can use that in the predict.py pr predict_test.py。
+
 you can also contact flyljd02@outlook.com for more detatils
