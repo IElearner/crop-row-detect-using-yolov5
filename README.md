@@ -1,6 +1,6 @@
 # crop-row-detect-using-yolov5
 
-Hi,this is my capstone project @sjtu
+Hi,this is my capstone project @sjtu ME F2002020 Juandan Luo
 
 the algorithm is composed by 2 parts, 
 the first part we use the yolov5 to do the segment task,the original code:https://github.com/z1069614715/yolov5-seg
@@ -15,5 +15,6 @@ step2:
 
 
 the label was done by using labelme
-sorry we can not afford you the completed dataset,but there is one best.py that we have trained ,you can use that in the predict.py pr predict_test.py
+sorry we can not afford you the completed dataset,but there is one best.py that we have trained ,
+you can use that in the predict.py pr predict_test.py
 you can contact flyljd02@outlook.com for more detatils
