@@ -11,7 +11,8 @@ step1:
 
 
 step2:
-![step2](https://github.com/IElearner/crop-row-detect-using-yolov5/assets/114279086/114c1c11-b1f8-4fe7-9df2-f40174811bd4)
+![20240606152957](https://github.com/IElearner/crop-row-detect-using-yolov5/assets/114279086/05201f1c-b3e5-4fa7-aff3-990c3d1ac1ee)
+you can see the transforming detail in the step2.jpg (not the image above)
 
 
 the label was done by using labelme
