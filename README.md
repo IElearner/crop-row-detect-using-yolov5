@@ -4,7 +4,7 @@ Hi,this is my capstone project(毕设项目) @sjtu ME F2002020 Juandan Luo
 
 the algorithm is composed by 2 parts, 
 the first part we use the yolov5 to do the segment task,the original code:https://github.com/z1069614715/yolov5-seg
-and the second part is wrote in the image_process_formal.py,and the inspiration comes from:https://github.com/EarlJr53/row-crop-detection
+and the second part is wrote in the image_process_formal.py。
 
 step1:
 
